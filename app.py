@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 from PIL import Image
 from collections import defaultdict
+#hii this side vijay
 
 # Load the YOLOv8 model
 model = YOLO("animal__yolov8.pt")  # Ensure this model is in your working directory
